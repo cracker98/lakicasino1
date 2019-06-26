@@ -40,4 +40,39 @@ content: url("https://dewalive.com/assets/img/icon/newicon/icon-BL.jpg?v=1.0") !
 content: url("https://dewalive.com/assets/img/icon/newicon/icon-GB.jpg?v=1.0") !important;
 }
 
-.ga
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-SD.jpg?v=1.0") !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-MP.jpg?v=1.0") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-HNT.jpg?v=1.0") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-RL.jpg?v=1.0") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-OG.jpg?v=1.0") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-PD.jpg?v=1.0") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-RW.jpg?v=1.0") !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+content: url("https://dewalive.com/assets/img/icon/newicon/icon-SW.jpg?v=1.0") !important;
+}
+
+border: 1px solid transparent !important;
+padding: 2px !important;
+}
+
+</style>
